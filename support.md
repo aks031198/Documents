@@ -25,7 +25,7 @@ You can reach out for help with:
 - Laundry tracking
 - Notifications and reminders
 - Widgets
-- App Store or account-related questions
+- App Store purchase, subscription, or restore purchase questions
 
 ## Response Time
 

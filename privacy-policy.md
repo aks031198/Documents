@@ -1,6 +1,6 @@
 # WearVault Privacy Policy
 
-Last updated: April 14, 2026
+Last updated: April 16, 2026
 
 WearVault respects your privacy. This Privacy Policy explains what information the app uses, how it is handled, and your choices.
 
@@ -41,6 +41,14 @@ These permissions are only used for adding clothing images that you choose to sa
 ## Notifications
 
 If you enable reminders, WearVault can schedule local notifications on your device, such as outfit check-ins or reminder alerts. You can disable notifications anytime in the app or in iPhone Settings.
+
+## Subscriptions And Purchases
+
+WearVault may offer optional auto-renewable subscriptions through Apple's App Store.
+
+Payments, billing, and subscription management are handled by Apple. WearVault does not receive your full payment card details.
+
+The app may check subscription status locally through Apple's StoreKit framework to unlock premium features.
 
 ## Data Storage
 
